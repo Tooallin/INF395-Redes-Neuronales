@@ -1,0 +1,8 @@
+{
+	"material-icon-theme.folders.associations": {
+		"ecg_signals": "database",
+		"train": "test",
+		"valid": "test",
+		"skin-lesions": "images"
+	}
+}
