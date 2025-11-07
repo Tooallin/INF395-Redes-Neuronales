@@ -3,6 +3,7 @@
 		"ecg_signals": "database",
 		"train": "test",
 		"valid": "test",
+		"ecg_submittions": "upload",
 		"skin-lesions": "images"
 	}
 }
