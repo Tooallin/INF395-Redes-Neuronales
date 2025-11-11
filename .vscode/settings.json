@@ -4,6 +4,7 @@
 		"train": "test",
 		"valid": "test",
 		"ecg_submittions": "upload",
-		"skin-lesions": "images"
+		"skin-lesions": "images",
+		"checkpoints": "database"
 	}
 }

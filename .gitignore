@@ -1,4 +1,6 @@
 /project/skin-lesions/
 /project/ecg_signals/
-/project/lightning_logs
+/project/lightning_logs/
+/project/ecg_submittions/
+/project/checkpoints/
 /.venv
